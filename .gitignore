@@ -1,0 +1,5 @@
+.claude/work
+*.pyc
+*.pt
+*.npz
+gemini-code.sh
